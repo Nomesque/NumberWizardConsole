@@ -4,13 +4,22 @@ using UnityEngine;
 
 public class NumberWizard : MonoBehaviour
 {
-    int max = 1000;
-    int min = 1;
-    int guess = 500;
+    int max;
+    int min;
+    int guess;
 
     // Start is called before the first frame update
     void Start()
     {
+        StartGame();
+    }
+
+    void StartGame()
+    {
+        max = 1000;
+        min = 1;
+        guess = 500;
+
         Debug.Log("Hey dude. This is Number Wizard. ");
         Debug.Log("Are you smarter than a machine? Here's your chance to find out...");
         Debug.Log("I want you to pick a number, and I'll try to guess it.");
@@ -28,22 +37,21 @@ public class NumberWizard : MonoBehaviour
         {
             Debug.Log("Higher, you say? OK then...");
             min = guess;
-            guess = (max + min) / 2;
-            Debug.Log("Is your number " + guess + "?");
+            NextGuess();
         }
 
         else if (Input.GetKeyDown(KeyCode.DownArrow))
         {
             Debug.Log("Lower? Hmmm. OK...");
             max = guess;
-            guess = (max + min) / 2;
-            Debug.Log("Is your number " + guess + "?");
+            NextGuess();
         }
 
         else if (Input.GetKeyDown(KeyCode.Return))
         {
             Debug.Log("OMG I AM SO FRICKIN' SMRT!!!! *happy dance*");
             Debug.Log("Your number is " + guess + "!");
+            StartGame();
         }
 
         else if (Input.anyKeyDown)
@@ -52,5 +60,11 @@ public class NumberWizard : MonoBehaviour
             Debug.Log("That key wasn't in the plan, doofus.");
             Debug.Log("Is your number " + guess + "?");
         }
+    }
+
+    void NextGuess()
+    {
+        guess = (max + min) / 2;
+        Debug.Log("Is your number " + guess + "?");
     }
 }

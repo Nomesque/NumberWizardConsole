@@ -1,0 +1,1350 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 995438498, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 5
+  lastUpdatedAtString: 2019-06-17T12:27:15.075+10:00
+  initializedAtString: 2019-06-17T12:21:04.723+10:00
+  entries:
+  - path: .vs\Number Wizard Console\v15\.suo
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\.vs\Number Wizard
+      Console\v15\.suo
+    projectPath: .vs\Number Wizard Console\v15\.suo
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: .vs\Number Wizard Console\v15\Server\sqlite3\db.lock
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\.vs\Number Wizard
+      Console\v15\Server\sqlite3\db.lock
+    projectPath: .vs\Number Wizard Console\v15\Server\sqlite3\db.lock
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: .vs\Number Wizard Console\v15\Server\sqlite3\storage.ide
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\.vs\Number Wizard
+      Console\v15\Server\sqlite3\storage.ide
+    projectPath: .vs\Number Wizard Console\v15\Server\sqlite3\storage.ide
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: .vs\Number Wizard Console\v15\Server\sqlite3\storage.ide-shm
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\.vs\Number Wizard
+      Console\v15\Server\sqlite3\storage.ide-shm
+    projectPath: .vs\Number Wizard Console\v15\Server\sqlite3\storage.ide-shm
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: .vs\Number Wizard Console\v15\Server\sqlite3\storage.ide-wal
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\.vs\Number Wizard
+      Console\v15\Server\sqlite3\storage.ide-wal
+    projectPath: .vs\Number Wizard Console\v15\Server\sqlite3\storage.ide-wal
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assembly-CSharp-Editor-firstpass.csproj
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Assembly-CSharp-Editor-firstpass.csproj
+    projectPath: Assembly-CSharp-Editor-firstpass.csproj
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\NumberWizard.cs
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Assets\NumberWizard.cs
+    projectPath: Assets\NumberWizard.cs
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets\Plugins.meta
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Assets\Plugins.meta
+    projectPath: Assets\Plugins.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub.meta
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Assets\Plugins\GitHub.meta
+    projectPath: Assets\Plugins\GitHub.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor.meta
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Assets\Plugins\GitHub\Editor.meta
+    projectPath: Assets\Plugins\GitHub\Editor.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+    projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Assets\Plugins\GitHub\Editor\big-logo@2x.png
+    projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+    projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\credits.txt
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Assets\Plugins\GitHub\Editor\credits.txt
+    projectPath: Assets\Plugins\GitHub\Editor\credits.txt
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\credits.txt.meta
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Assets\Plugins\GitHub\Editor\credits.txt.meta
+    projectPath: Assets\Plugins\GitHub\Editor\credits.txt.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\eula.txt
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Assets\Plugins\GitHub\Editor\eula.txt
+    projectPath: Assets\Plugins\GitHub\Editor\eula.txt
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\eula.txt.meta
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Assets\Plugins\GitHub\Editor\eula.txt.meta
+    projectPath: Assets\Plugins\GitHub\Editor\eula.txt.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+    projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+    projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb.meta
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.pdb
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Assets\Plugins\GitHub\Editor\GitHub.Api.pdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.pdb
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.pdb.meta
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Assets\Plugins\GitHub\Editor\GitHub.Api.pdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.pdb.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb.meta
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb.meta
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb.meta
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb.meta
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb.meta
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\libsfw.bundle
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Assets\Plugins\GitHub\Editor\libsfw.bundle
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\libsfw.so
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Assets\Plugins\GitHub\Editor\libsfw.so
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.so
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+    projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+    projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+    projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+    projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\sfw.net.dll
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Assets\Plugins\GitHub\Editor\sfw.net.dll
+    projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\System.Threading.dll
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Assets\Plugins\GitHub\Editor\System.Threading.dll
+    projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+    projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+    projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\x64.meta
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Assets\Plugins\GitHub\Editor\x64.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x64.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\x86.meta
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Assets\Plugins\GitHub\Editor\x86.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x86.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\assetDatabase3
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Library\assetDatabase3
+    projectPath: Library\assetDatabase3
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\EditorInstance.json
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Library\EditorInstance.json
+    projectPath: Library\EditorInstance.json
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\gfu\cache\branches.yaml
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Library\gfu\cache\branches.yaml
+    projectPath: Library\gfu\cache\branches.yaml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\gfu\cache\gitlocks.yaml
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Library\gfu\cache\gitlocks.yaml
+    projectPath: Library\gfu\cache\gitlocks.yaml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\gfu\cache\gitlog.yaml
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Library\gfu\cache\gitlog.yaml
+    projectPath: Library\gfu\cache\gitlog.yaml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\gfu\cache\gitstatusentries.yaml
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Library\gfu\cache\gitstatusentries.yaml
+    projectPath: Library\gfu\cache\gitstatusentries.yaml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Library\gfu\cache\gittrackingstatus.yaml
+    projectPath: Library\gfu\cache\gittrackingstatus.yaml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\gfu\cache\gituser.yaml
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Library\gfu\cache\gituser.yaml
+    projectPath: Library\gfu\cache\gituser.yaml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\gfu\cache\repoinfo.yaml
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Library\gfu\cache\repoinfo.yaml
+    projectPath: Library\gfu\cache\repoinfo.yaml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9
+    projectPath: Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9.info
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9.info
+    projectPath: Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\07\0741931578c80e84f85b10a15f9509e5
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Library\metadata\07\0741931578c80e84f85b10a15f9509e5
+    projectPath: Library\metadata\07\0741931578c80e84f85b10a15f9509e5
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\07\0741931578c80e84f85b10a15f9509e5.info
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Library\metadata\07\0741931578c80e84f85b10a15f9509e5.info
+    projectPath: Library\metadata\07\0741931578c80e84f85b10a15f9509e5.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\11\1186e0491049e40ba8e7e19e418d9e8e
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Library\metadata\11\1186e0491049e40ba8e7e19e418d9e8e
+    projectPath: Library\metadata\11\1186e0491049e40ba8e7e19e418d9e8e
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\11\1186e0491049e40ba8e7e19e418d9e8e.info
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Library\metadata\11\1186e0491049e40ba8e7e19e418d9e8e.info
+    projectPath: Library\metadata\11\1186e0491049e40ba8e7e19e418d9e8e.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\13\136dc24f151211d438acee17aff4e934
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Library\metadata\13\136dc24f151211d438acee17aff4e934
+    projectPath: Library\metadata\13\136dc24f151211d438acee17aff4e934
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\13\136dc24f151211d438acee17aff4e934.info
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Library\metadata\13\136dc24f151211d438acee17aff4e934.info
+    projectPath: Library\metadata\13\136dc24f151211d438acee17aff4e934.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\15\151a1d946b98deb4b98445400983ba92
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Library\metadata\15\151a1d946b98deb4b98445400983ba92
+    projectPath: Library\metadata\15\151a1d946b98deb4b98445400983ba92
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\15\151a1d946b98deb4b98445400983ba92.info
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Library\metadata\15\151a1d946b98deb4b98445400983ba92.info
+    projectPath: Library\metadata\15\151a1d946b98deb4b98445400983ba92.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d
+    projectPath: Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d.info
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d.info
+    projectPath: Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\18\181f65fb096cedd4493bc9971257d8b1
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Library\metadata\18\181f65fb096cedd4493bc9971257d8b1
+    projectPath: Library\metadata\18\181f65fb096cedd4493bc9971257d8b1
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\18\181f65fb096cedd4493bc9971257d8b1.info
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Library\metadata\18\181f65fb096cedd4493bc9971257d8b1.info
+    projectPath: Library\metadata\18\181f65fb096cedd4493bc9971257d8b1.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\18\18e096a98c2704c40a818dd1214cd179
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Library\metadata\18\18e096a98c2704c40a818dd1214cd179
+    projectPath: Library\metadata\18\18e096a98c2704c40a818dd1214cd179
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\18\18e096a98c2704c40a818dd1214cd179.info
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Library\metadata\18\18e096a98c2704c40a818dd1214cd179.info
+    projectPath: Library\metadata\18\18e096a98c2704c40a818dd1214cd179.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db
+    projectPath: Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db.info
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db.info
+    projectPath: Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\23\23c8bee69b591054094d32918f98facd
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Library\metadata\23\23c8bee69b591054094d32918f98facd
+    projectPath: Library\metadata\23\23c8bee69b591054094d32918f98facd
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\23\23c8bee69b591054094d32918f98facd.info
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Library\metadata\23\23c8bee69b591054094d32918f98facd.info
+    projectPath: Library\metadata\23\23c8bee69b591054094d32918f98facd.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\25\2590b98e5cafc4e32b61170d7b917ee6
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Library\metadata\25\2590b98e5cafc4e32b61170d7b917ee6
+    projectPath: Library\metadata\25\2590b98e5cafc4e32b61170d7b917ee6
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\25\2590b98e5cafc4e32b61170d7b917ee6.info
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Library\metadata\25\2590b98e5cafc4e32b61170d7b917ee6.info
+    projectPath: Library\metadata\25\2590b98e5cafc4e32b61170d7b917ee6.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0
+    projectPath: Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0.info
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0.info
+    projectPath: Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\55\555cd6f54c03341b1970d950df1a5ee5
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Library\metadata\55\555cd6f54c03341b1970d950df1a5ee5
+    projectPath: Library\metadata\55\555cd6f54c03341b1970d950df1a5ee5
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\55\555cd6f54c03341b1970d950df1a5ee5.info
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Library\metadata\55\555cd6f54c03341b1970d950df1a5ee5.info
+    projectPath: Library\metadata\55\555cd6f54c03341b1970d950df1a5ee5.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\63\636d33ae594884e7d80b569f429d245d
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Library\metadata\63\636d33ae594884e7d80b569f429d245d
+    projectPath: Library\metadata\63\636d33ae594884e7d80b569f429d245d
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\63\636d33ae594884e7d80b569f429d245d.info
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Library\metadata\63\636d33ae594884e7d80b569f429d245d.info
+    projectPath: Library\metadata\63\636d33ae594884e7d80b569f429d245d.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\68\68c7e4565cde54155bb78d8e935f1dd4
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Library\metadata\68\68c7e4565cde54155bb78d8e935f1dd4
+    projectPath: Library\metadata\68\68c7e4565cde54155bb78d8e935f1dd4
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\68\68c7e4565cde54155bb78d8e935f1dd4.info
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Library\metadata\68\68c7e4565cde54155bb78d8e935f1dd4.info
+    projectPath: Library\metadata\68\68c7e4565cde54155bb78d8e935f1dd4.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\68\68c7e4565cde54155bb78d8e935f1ddb
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Library\metadata\68\68c7e4565cde54155bb78d8e935f1ddb
+    projectPath: Library\metadata\68\68c7e4565cde54155bb78d8e935f1ddb
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\68\68c7e4565cde54155bb78d8e935f1ddb.info
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Library\metadata\68\68c7e4565cde54155bb78d8e935f1ddb.info
+    projectPath: Library\metadata\68\68c7e4565cde54155bb78d8e935f1ddb.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\72\720712be6e31c444f88f57bb85bf5fa5
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Library\metadata\72\720712be6e31c444f88f57bb85bf5fa5
+    projectPath: Library\metadata\72\720712be6e31c444f88f57bb85bf5fa5
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\72\720712be6e31c444f88f57bb85bf5fa5.info
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Library\metadata\72\720712be6e31c444f88f57bb85bf5fa5.info
+    projectPath: Library\metadata\72\720712be6e31c444f88f57bb85bf5fa5.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\79\790749ba7e4b18141953e39cb13f1b79
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Library\metadata\79\790749ba7e4b18141953e39cb13f1b79
+    projectPath: Library\metadata\79\790749ba7e4b18141953e39cb13f1b79
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\79\790749ba7e4b18141953e39cb13f1b79.info
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Library\metadata\79\790749ba7e4b18141953e39cb13f1b79.info
+    projectPath: Library\metadata\79\790749ba7e4b18141953e39cb13f1b79.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\7c\7cf5f54319ece1849ab8b668c95cc0e1
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Library\metadata\7c\7cf5f54319ece1849ab8b668c95cc0e1
+    projectPath: Library\metadata\7c\7cf5f54319ece1849ab8b668c95cc0e1
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\7c\7cf5f54319ece1849ab8b668c95cc0e1.info
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Library\metadata\7c\7cf5f54319ece1849ab8b668c95cc0e1.info
+    projectPath: Library\metadata\7c\7cf5f54319ece1849ab8b668c95cc0e1.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\86\863e1b9976c4e46d29bf83928b3a8ab2
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Library\metadata\86\863e1b9976c4e46d29bf83928b3a8ab2
+    projectPath: Library\metadata\86\863e1b9976c4e46d29bf83928b3a8ab2
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\86\863e1b9976c4e46d29bf83928b3a8ab2.info
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Library\metadata\86\863e1b9976c4e46d29bf83928b3a8ab2.info
+    projectPath: Library\metadata\86\863e1b9976c4e46d29bf83928b3a8ab2.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8
+    projectPath: Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8.info
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8.info
+    projectPath: Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\87\877ef3585573ce44eab899298be23158
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Library\metadata\87\877ef3585573ce44eab899298be23158
+    projectPath: Library\metadata\87\877ef3585573ce44eab899298be23158
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\87\877ef3585573ce44eab899298be23158.info
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Library\metadata\87\877ef3585573ce44eab899298be23158.info
+    projectPath: Library\metadata\87\877ef3585573ce44eab899298be23158.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45
+    projectPath: Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45.info
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45.info
+    projectPath: Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\9d\9dbfbde6b5e35fd46a94cd5461f8fd2c
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Library\metadata\9d\9dbfbde6b5e35fd46a94cd5461f8fd2c
+    projectPath: Library\metadata\9d\9dbfbde6b5e35fd46a94cd5461f8fd2c
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13
+    projectPath: Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13.info
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13.info
+    projectPath: Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231
+    projectPath: Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231.info
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231.info
+    projectPath: Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\b1\b171a72da1336124ca98d558ceedec0e
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Library\metadata\b1\b171a72da1336124ca98d558ceedec0e
+    projectPath: Library\metadata\b1\b171a72da1336124ca98d558ceedec0e
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\b1\b171a72da1336124ca98d558ceedec0e.info
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Library\metadata\b1\b171a72da1336124ca98d558ceedec0e.info
+    projectPath: Library\metadata\b1\b171a72da1336124ca98d558ceedec0e.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\c5\c5c83d14802e712408f23409f3c59e26
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Library\metadata\c5\c5c83d14802e712408f23409f3c59e26
+    projectPath: Library\metadata\c5\c5c83d14802e712408f23409f3c59e26
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\c5\c5c83d14802e712408f23409f3c59e26.info
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Library\metadata\c5\c5c83d14802e712408f23409f3c59e26.info
+    projectPath: Library\metadata\c5\c5c83d14802e712408f23409f3c59e26.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\c7\c743ae24ee231884887054d20ccdd0ab
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Library\metadata\c7\c743ae24ee231884887054d20ccdd0ab
+    projectPath: Library\metadata\c7\c743ae24ee231884887054d20ccdd0ab
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\c7\c743ae24ee231884887054d20ccdd0ab.info
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Library\metadata\c7\c743ae24ee231884887054d20ccdd0ab.info
+    projectPath: Library\metadata\c7\c743ae24ee231884887054d20ccdd0ab.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae
+    projectPath: Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae.info
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae.info
+    projectPath: Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\ca\cad92998c5182496e8b989b406d9f156
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Library\metadata\ca\cad92998c5182496e8b989b406d9f156
+    projectPath: Library\metadata\ca\cad92998c5182496e8b989b406d9f156
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\ca\cad92998c5182496e8b989b406d9f156.info
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Library\metadata\ca\cad92998c5182496e8b989b406d9f156.info
+    projectPath: Library\metadata\ca\cad92998c5182496e8b989b406d9f156.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\cb\cb24a8a44957bf24e8a013759e2a94b9
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Library\metadata\cb\cb24a8a44957bf24e8a013759e2a94b9
+    projectPath: Library\metadata\cb\cb24a8a44957bf24e8a013759e2a94b9
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\cb\cb24a8a44957bf24e8a013759e2a94b9.info
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Library\metadata\cb\cb24a8a44957bf24e8a013759e2a94b9.info
+    projectPath: Library\metadata\cb\cb24a8a44957bf24e8a013759e2a94b9.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132
+    projectPath: Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132.info
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132.info
+    projectPath: Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\d6\d601ecb6855bb432bae2aa49d8fd82e8
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Library\metadata\d6\d601ecb6855bb432bae2aa49d8fd82e8
+    projectPath: Library\metadata\d6\d601ecb6855bb432bae2aa49d8fd82e8
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\d6\d601ecb6855bb432bae2aa49d8fd82e8.info
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Library\metadata\d6\d601ecb6855bb432bae2aa49d8fd82e8.info
+    projectPath: Library\metadata\d6\d601ecb6855bb432bae2aa49d8fd82e8.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\d9\d97860156f9137e4b88db3d4b06d3f3f
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Library\metadata\d9\d97860156f9137e4b88db3d4b06d3f3f
+    projectPath: Library\metadata\d9\d97860156f9137e4b88db3d4b06d3f3f
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\d9\d97860156f9137e4b88db3d4b06d3f3f.info
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Library\metadata\d9\d97860156f9137e4b88db3d4b06d3f3f.info
+    projectPath: Library\metadata\d9\d97860156f9137e4b88db3d4b06d3f3f.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\da\dae2ecee8a704dd59797e26554ff8606
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Library\metadata\da\dae2ecee8a704dd59797e26554ff8606
+    projectPath: Library\metadata\da\dae2ecee8a704dd59797e26554ff8606
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\da\dae2ecee8a704dd59797e26554ff8606.info
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Library\metadata\da\dae2ecee8a704dd59797e26554ff8606.info
+    projectPath: Library\metadata\da\dae2ecee8a704dd59797e26554ff8606.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c
+    projectPath: Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c.info
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c.info
+    projectPath: Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\f4\f4a9c618db8862d4bb7a0ffc950d4797
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Library\metadata\f4\f4a9c618db8862d4bb7a0ffc950d4797
+    projectPath: Library\metadata\f4\f4a9c618db8862d4bb7a0ffc950d4797
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\f4\f4a9c618db8862d4bb7a0ffc950d4797.info
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Library\metadata\f4\f4a9c618db8862d4bb7a0ffc950d4797.info
+    projectPath: Library\metadata\f4\f4a9c618db8862d4bb7a0ffc950d4797.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\f8\f81094832d834c64d93b198cb16b6a3e
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Library\metadata\f8\f81094832d834c64d93b198cb16b6a3e
+    projectPath: Library\metadata\f8\f81094832d834c64d93b198cb16b6a3e
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\f8\f81094832d834c64d93b198cb16b6a3e.info
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Library\metadata\f8\f81094832d834c64d93b198cb16b6a3e.info
+    projectPath: Library\metadata\f8\f81094832d834c64d93b198cb16b6a3e.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6
+    projectPath: Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6.info
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6.info
+    projectPath: Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998
+    projectPath: Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998.info
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998.info
+    projectPath: Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ScriptAssemblies\Assembly-CSharp.dll
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Library\ScriptAssemblies\Assembly-CSharp.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\ScriptAssemblies\Assembly-CSharp.pdb
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Library\ScriptAssemblies\Assembly-CSharp.pdb
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.pdb
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
+    projectPath: Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.dll
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.dll
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\shadercompiler-UnityShaderCompiler.exe0.log
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Library\shadercompiler-UnityShaderCompiler.exe0.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\StateCache\Hierarchy\edce73-mainStage.json
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Library\StateCache\Hierarchy\edce73-mainStage.json
+    projectPath: Library\StateCache\Hierarchy\edce73-mainStage.json
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Number Wizard Console.sln
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Number Wizard
+      Console.sln
+    projectPath: Number Wizard Console.sln
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: obj\Debug\Assembly-CSharp-Editor-firstpass.csproj.CoreCompileInputs.cache
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\obj\Debug\Assembly-CSharp-Editor-firstpass.csproj.CoreCompileInputs.cache
+    projectPath: obj\Debug\Assembly-CSharp-Editor-firstpass.csproj.CoreCompileInputs.cache
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+    projectPath: obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\__Backupscenes\0.backup
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Temp\__Backupscenes\0.backup
+    projectPath: Temp\__Backupscenes\0.backup
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityLockfile
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Temp\UnityLockfile
+    projectPath: Temp\UnityLockfile
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-159e2b0cb70e1cc48b05c3e8e5989462
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Temp\UnityTempFile-159e2b0cb70e1cc48b05c3e8e5989462
+    projectPath: Temp\UnityTempFile-159e2b0cb70e1cc48b05c3e8e5989462
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-16207202d908c2a4dbacf397331834ed
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Temp\UnityTempFile-16207202d908c2a4dbacf397331834ed
+    projectPath: Temp\UnityTempFile-16207202d908c2a4dbacf397331834ed
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-1d5102da72e3ed041acd19e55fd1d1a8
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Temp\UnityTempFile-1d5102da72e3ed041acd19e55fd1d1a8
+    projectPath: Temp\UnityTempFile-1d5102da72e3ed041acd19e55fd1d1a8
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-27109c93d93b96c459533a1d98e906bb
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Temp\UnityTempFile-27109c93d93b96c459533a1d98e906bb
+    projectPath: Temp\UnityTempFile-27109c93d93b96c459533a1d98e906bb
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-2d6dfe308447ece419cc3a34182ad4a6
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Temp\UnityTempFile-2d6dfe308447ece419cc3a34182ad4a6
+    projectPath: Temp\UnityTempFile-2d6dfe308447ece419cc3a34182ad4a6
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-309b9b216ab4f5e4295673b99fb7c23f
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Temp\UnityTempFile-309b9b216ab4f5e4295673b99fb7c23f
+    projectPath: Temp\UnityTempFile-309b9b216ab4f5e4295673b99fb7c23f
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-3fa49e71801ef564aa325acbdc3a456e
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Temp\UnityTempFile-3fa49e71801ef564aa325acbdc3a456e
+    projectPath: Temp\UnityTempFile-3fa49e71801ef564aa325acbdc3a456e
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-4107ba1b563453e4bb074c92ce9973b2
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Temp\UnityTempFile-4107ba1b563453e4bb074c92ce9973b2
+    projectPath: Temp\UnityTempFile-4107ba1b563453e4bb074c92ce9973b2
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-460528d775436344a8e497d65d1c9b45
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Temp\UnityTempFile-460528d775436344a8e497d65d1c9b45
+    projectPath: Temp\UnityTempFile-460528d775436344a8e497d65d1c9b45
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-4af956ec5c27b534c90104fcdac0a3d9
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Temp\UnityTempFile-4af956ec5c27b534c90104fcdac0a3d9
+    projectPath: Temp\UnityTempFile-4af956ec5c27b534c90104fcdac0a3d9
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-4b2632de0ff2e6440bf78f9e60dc5ec0
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Temp\UnityTempFile-4b2632de0ff2e6440bf78f9e60dc5ec0
+    projectPath: Temp\UnityTempFile-4b2632de0ff2e6440bf78f9e60dc5ec0
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-5a3c2628bda93b4489ea4bf00ad9753a
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Temp\UnityTempFile-5a3c2628bda93b4489ea4bf00ad9753a
+    projectPath: Temp\UnityTempFile-5a3c2628bda93b4489ea4bf00ad9753a
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-5c80866c8faf5b14bb1ec795d0090901
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Temp\UnityTempFile-5c80866c8faf5b14bb1ec795d0090901
+    projectPath: Temp\UnityTempFile-5c80866c8faf5b14bb1ec795d0090901
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-607819609e2e6fa45a7eb8144239cc55
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Temp\UnityTempFile-607819609e2e6fa45a7eb8144239cc55
+    projectPath: Temp\UnityTempFile-607819609e2e6fa45a7eb8144239cc55
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-67472226745d5f342892685e92f8a0ac
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Temp\UnityTempFile-67472226745d5f342892685e92f8a0ac
+    projectPath: Temp\UnityTempFile-67472226745d5f342892685e92f8a0ac
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-6ef38c77f77594e4d84f900ab2a7631d
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Temp\UnityTempFile-6ef38c77f77594e4d84f900ab2a7631d
+    projectPath: Temp\UnityTempFile-6ef38c77f77594e4d84f900ab2a7631d
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-76b90d2eb5c638440bc035735caa214d
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Temp\UnityTempFile-76b90d2eb5c638440bc035735caa214d
+    projectPath: Temp\UnityTempFile-76b90d2eb5c638440bc035735caa214d
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-7adcc213e64267241b927d35929970da
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Temp\UnityTempFile-7adcc213e64267241b927d35929970da
+    projectPath: Temp\UnityTempFile-7adcc213e64267241b927d35929970da
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-7e857de783528904ab985fda1276466f
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Temp\UnityTempFile-7e857de783528904ab985fda1276466f
+    projectPath: Temp\UnityTempFile-7e857de783528904ab985fda1276466f
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-84345409ca219454ea3521dbeaf7835f
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Temp\UnityTempFile-84345409ca219454ea3521dbeaf7835f
+    projectPath: Temp\UnityTempFile-84345409ca219454ea3521dbeaf7835f
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-8a0f5ec09a582644b80b409b3fb0491e
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Temp\UnityTempFile-8a0f5ec09a582644b80b409b3fb0491e
+    projectPath: Temp\UnityTempFile-8a0f5ec09a582644b80b409b3fb0491e
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-8bd392f9de175e743ac8b18bf85840a4
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Temp\UnityTempFile-8bd392f9de175e743ac8b18bf85840a4
+    projectPath: Temp\UnityTempFile-8bd392f9de175e743ac8b18bf85840a4
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-984eef133b8bd2d43afbf9ff604a0c95
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Temp\UnityTempFile-984eef133b8bd2d43afbf9ff604a0c95
+    projectPath: Temp\UnityTempFile-984eef133b8bd2d43afbf9ff604a0c95
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-9adc5e3a13ef98143b8785d2a8b5e69a
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Temp\UnityTempFile-9adc5e3a13ef98143b8785d2a8b5e69a
+    projectPath: Temp\UnityTempFile-9adc5e3a13ef98143b8785d2a8b5e69a
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-acff3b8b8b301c44b8c1cd905791faae
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Temp\UnityTempFile-acff3b8b8b301c44b8c1cd905791faae
+    projectPath: Temp\UnityTempFile-acff3b8b8b301c44b8c1cd905791faae
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-ad55e852a4cac0a459e6e83cd8434340
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Temp\UnityTempFile-ad55e852a4cac0a459e6e83cd8434340
+    projectPath: Temp\UnityTempFile-ad55e852a4cac0a459e6e83cd8434340
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-b35fabaaa5bc97943840fa6bc90898cb
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Temp\UnityTempFile-b35fabaaa5bc97943840fa6bc90898cb
+    projectPath: Temp\UnityTempFile-b35fabaaa5bc97943840fa6bc90898cb
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-bba317ca69e0bd249a82c24cbc32b6dc
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Temp\UnityTempFile-bba317ca69e0bd249a82c24cbc32b6dc
+    projectPath: Temp\UnityTempFile-bba317ca69e0bd249a82c24cbc32b6dc
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-c3f36f3bdc5d58c43a1e59e168e978e2
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Temp\UnityTempFile-c3f36f3bdc5d58c43a1e59e168e978e2
+    projectPath: Temp\UnityTempFile-c3f36f3bdc5d58c43a1e59e168e978e2
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-d34f7ca6d8262bf48a9a8a29a8b30f8e
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Temp\UnityTempFile-d34f7ca6d8262bf48a9a8a29a8b30f8e
+    projectPath: Temp\UnityTempFile-d34f7ca6d8262bf48a9a8a29a8b30f8e
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-d48e0feab39430145bd16e24162f72ee
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Temp\UnityTempFile-d48e0feab39430145bd16e24162f72ee
+    projectPath: Temp\UnityTempFile-d48e0feab39430145bd16e24162f72ee
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-f13db0f1cba5ab34ea3e5b19ea61eb66
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Temp\UnityTempFile-f13db0f1cba5ab34ea3e5b19ea61eb66
+    projectPath: Temp\UnityTempFile-f13db0f1cba5ab34ea3e5b19ea61eb66
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-fb8538a4b661a1545b496d34f076bb43
+    fullPath: D:\Users\Nomes\Documents\Coding\Number Wizard Console\Temp\UnityTempFile-fb8538a4b661a1545b496d34f076bb43
+    projectPath: Temp\UnityTempFile-fb8538a4b661a1545b496d34f076bb43
+    originalPath: 
+    status: 1
+    staged: 0
